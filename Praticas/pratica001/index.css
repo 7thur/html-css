@@ -90,5 +90,7 @@ footer p {
 }
 
 nav a:hover{
-    color: #D784E0
+    color: #D784E0;
+    font-size: 1px;
+    
 }
