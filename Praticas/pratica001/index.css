@@ -85,7 +85,9 @@ footer p {
 .conteiner {
     padding: 0px 20px;
     font-size: 1em;
-    margin: auto;
+    margin:auto;
+    min-height: 320px;
+    max-width: 600px;
 
     
 }
@@ -93,3 +95,4 @@ footer p {
 nav a:hover{
     color: #D784E0; 
 }
+
