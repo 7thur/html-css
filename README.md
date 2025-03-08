@@ -3,4 +3,4 @@
 
 Aprendendo github e gerenciando!
 
-<a href= ""></a>
+<a href= "https://7thur.github.io/html-css/Praticas/pratica001/">Executar</a>
