@@ -57,6 +57,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    color: #D784E0;
 }
 
 .pushReleaseFrom { animation-name:fadeInBottom}
