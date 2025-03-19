@@ -39,11 +39,8 @@ p{
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em
-    padding: 1px;
-    margin:50px;
-    color: white;
- 
 }
+
 .DEV{
     color: #D784E0; /* Cor da parte pintada */
     
@@ -57,7 +54,7 @@ h2{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    color: #D784E0;
+    
 }
 
 .pushReleaseFrom { animation-name:fadeInBottom}
@@ -89,7 +86,7 @@ footer p {
     padding: 10px;
 }
 .conteiner {
-    padding: 0px 20px;
+    padding:20px;
     font-size: 1em;
     margin:auto;
 }
@@ -99,9 +96,8 @@ nav a:hover
     color: #D784E0; 
 }
 
-.dinamicas{
+.dinamicas {
    min-width: 1170px;
    max-width: 2532px;
    margin: auto;
 }
-
