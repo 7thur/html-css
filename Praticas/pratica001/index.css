@@ -7,11 +7,16 @@ body{
 }
 ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     list-style-type:none ;
     align-items:center;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 4px;
+    padding: 20px;
+    gap: 10em;
+    
+    
+    
+
 }
  a{
     color:#d784e086;
