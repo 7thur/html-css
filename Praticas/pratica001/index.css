@@ -43,17 +43,18 @@ h1 {
 
 .DEV{
     color: #D784E0; /* Cor da parte pintada */
-    
+    font-size: 1.5em;
 }
 
 h2{
-    font-size: 4em;
+    font-size: 3em;
     text-align: center;
     padding: 20px;
     height: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
     
 }
 
