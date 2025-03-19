@@ -99,15 +99,6 @@ nav a:hover
 }
 
 .dinamicas {
-   width: 100%;
-   justify-content: space-around;
+
 }
 
-
-@media screen and  (max-width: 758px){ 
-    .container{
-        width: 100%;
-        flex-direction: column;
-    }
-    
-}
