@@ -89,7 +89,9 @@ footer p {
     padding:20px;
     font-size: 1em;
     margin:auto;
+    justify-content: space-around;
 }
+
 
 nav a:hover
 {
@@ -97,7 +99,15 @@ nav a:hover
 }
 
 .dinamicas {
-   min-width: 375px;
-   max-width: 557px;
-   margin: auto;
+   width: 100%;
+   justify-content: space-around;
+}
+
+
+@media screen and  (max-width: 758px){ 
+    .container{
+        width: 100%;
+        flex-direction: column;
+    }
+    
 }
