@@ -97,7 +97,7 @@ nav a:hover
 }
 
 .dinamicas {
-   min-width: 1170px;
-   max-width: 2532px;
+   min-width: 375px;
+   max-width: 667px;
    margin: auto;
 }
