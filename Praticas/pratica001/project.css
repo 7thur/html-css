@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(21, 21, 21);
+    display: grid;
+            place-items: center; /* Centraliza tanto vertical quanto horizontalmente */
+            height: 100vh; /* Altura da tela */
+            margin: 0; /* Remove margens padrão */
+    color: purple;
+}
+.leMagnify span { aniomation-name: leMagnify }
+@keyframes leMagnify {
+    50% {
+        transform: scale(1.8);
+        letter-spacing: 26px
+    }
+}
